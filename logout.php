@@ -2,6 +2,6 @@
 session_start();
 session_unset();
 session_destroy();
-header('Location: form.php');
+header('Location: Form.php');
 exit();
 
